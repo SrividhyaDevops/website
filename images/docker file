@@ -1,1 +1,2 @@
-testing docker file
+FROM ubuntu:latest
+CMD /bin/bash
